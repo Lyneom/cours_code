@@ -1,6 +1,6 @@
 
 - **Intitulé de la formation**: Inititation au code pour créer son propre site web
-- **Enseignant**: Félix Gaudé pour le cours, Mikaal ... et Lyne Omeish pour le projet
+- **Enseignant**: Félix Gaudé pour le cours, Mekaal Munir et Lyne Omeish pour le projet
 - **Organisation du dossier**: 
 - **Contexte pour le choix de ce cours**: le code avait l'air intéressant.
 #### **Description du cours**
