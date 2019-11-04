@@ -1,7 +1,7 @@
 
 - **Intitulé de la formation**: Inititation au code pour créer son propre site web ;
 - **Enseignant**: Félix Gaudé pour le cours, Mekaal Munir et Lyne Omeish pour le projet ;
-- **Organisation du dossier**: Ce dossier est constitué de 4 dossiers, d'un syllabus, d'un README, d'un fichier gît.md et d'un ficher terminal.md ;
+- **Organisation du dossier**: Ce dossier est constitué de 4 dossiers, d'un syllabus, d'un README, d'un fichier git.md et d'un ficher terminal.md ;
 - **Contexte pour le choix de ce cours**: Le code avait l'air intéressant et est partout dans la vie aujourd'hui.
 
 #### **Description du cours**
