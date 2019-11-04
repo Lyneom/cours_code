@@ -1,4 +1,4 @@
-## Syllabus
+
 - **Intitulé de la formation**: Inititation au code pour créer son propre site web
 - **Enseignant**: Félix Gaudé pour le cours, Mikaal ... et Lyne Omeish pour le projet
 - **Organisation du dossier**: 
