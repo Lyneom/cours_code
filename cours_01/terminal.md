@@ -41,7 +41,7 @@ Le terminal est un outil intimidant aux premiers abords, mais pas si compliquÃ© 
 
 `CTRL` + `ALT` + `T`.
 
-#### í ½íº€ ALERTE BONNE ASTUCE
+#### ğŸš€ ALERTE BONNE ASTUCE
 
 Si tu utilises Linux, passe ton terminal en anglais. Ã‡a va vraiment t'aider lorsqu'il te renverra des erreurs. En effet, comme l'anglais est la langue d'internet, la majoritÃ© des gens ayant eu ton problÃ¨me vont le poster en anglais. Tu auras ainsi 100 fois plus de rÃ©sultats sur Google qu'avec une erreur postÃ©e en franÃ§ais.
 
@@ -67,7 +67,7 @@ Pour faire marcher le terminal, rien de plus simple : il suffit de rentrer le te
 
 _(je commence toutes les commandes de terminal avec un `<div class="card-body". C'est une convention qui aide Ã  reconnaÃ®tre les commandes de CLI, mais qui ne fait pas partie de la commande. EnlÃ¨ve donc bien le $ au moment de tester !)_
 
-Si tu exÃ©cutes cette commande, le terminal devrait te renvoyer `Hello world !` (cette phrase est [un grand classique de la programmation](https://fr.wikipedia.org/wiki/Hello_world)). Et lÃ , BOUM ! Tu viens d'exÃ©cuter ta premiÃ¨re commande de terminal í ¼í¾‰.  
+Si tu exÃ©cutes cette commande, le terminal devrait te renvoyer `Hello world !` (cette phrase est [un grand classique de la programmation](https://fr.wikipedia.org/wiki/Hello_world)). Et lÃ , BOUM ! Tu viens d'exÃ©cuter ta premiÃ¨re commande de terminal ğŸš€.  
 Maintenant nous allons voir quelques commandes basiques.
 
 ##### 3.3.1\. PWD
@@ -82,7 +82,7 @@ Pour moi, `pwd` me renvoie :
 
 C'est comme dans l'explorateur en GUI, quand tu double-cliques sur `felix`, il te dÃ©place dans le dossier `felix` qui est dans le dossier `Users`.
 
-#### í ½íº€ ALERTE BONNE ASTUCE
+#### ğŸš€ ALERTE BONNE ASTUCE
 
 `pwd` est gÃ©nÃ©ralement la premiÃ¨re commande que l'on tape quand on arrive dans le terminal de quelqu'un car c'est idÃ©al pour s'y retrouver âœŒï¸
 
@@ -116,7 +116,7 @@ Tu vas donc devoir te dÃ©placer de dossiers en dossiers pour ouvrir et interagir
 
 #### 3.5\. CD
 
-`cd` est l'acronyme de _Change Directory_. Cette commande permet de naviguer entre dossiers. Il s'agit en quelque sorte d'un double-clic sur un dossier í ½í¸
+`cd` est l'acronyme de _Change Directory_. Cette commande permet de naviguer entre dossiers. Il s'agit en quelque sorte d'un double-clic sur un dossier ğŸš€
 
     $ cd nomdudossier
 
@@ -124,7 +124,7 @@ Tu te dÃ©placeras dans le dossier nommÃ© `nomdudossier` (s'il existe lÃ  oÃ¹ tu 
 
 Tu peux aussi te dÃ©placer vers le dossier parent en faisant `$ cd ..`
 
-#### í ½íº€ ALERTE BONNE ASTUCE
+#### ğŸš€ ALERTE BONNE ASTUCE
 
 Utiliser la touche `TAB` permet de faire de l'autocompletion, trÃ¨s pratique pour cette mÃ©thode. Aussi, faire `cd` + [ESPACE] + `TAB` + `TAB` affiche les dossiers disponibles.
 
@@ -149,7 +149,7 @@ Pour copier un fichier ou un dossier et le coller ailleurs, il suffit de rentrer
 Pour dÃ©placer (couper) un fichier ou un dossier d'un endroit vers un autre, il suffit de rentrer :
 
     mv [fichier_Ã _dÃ©placer] [lieu_de_destination]
-#### í ½íº€ ALERTE BONNE ASTUCE
+#### ğŸš€ ALERTE BONNE ASTUCE
 
 `mv` (diminutif de "move") est trÃ¨s pratique pour renommer un fichier. Imaginons que tu as crÃ©Ã© un fichier "hello.rv" au lieu de "hello.rb". Oups, malheur ! Heureusement, faire `$ mv hello.rv hello.rb` rÃ©sout ce petit incident en quelques coups de clavier !
 
@@ -163,12 +163,12 @@ Il est possible d'effacer un dossier ainsi que son contenu en ajoutant `-r` (com
 
     $ rm -r nomdudossier
 
-#### í ½í³š INSTANT CULTURE GÃ‰
+#### ğŸš€ INSTANT CULTURE GÃ‰
 
 `rm` est Ã  l'origine d'une blague vieille comme le monde. En effet, ajouter l'option `-f` permet de forcer la suppression d'un fichier, mÃªme s'il est important pour l'ordinateur. D'autre part, finir par `/` ou `*` dit Ã  votre ordinateur d'inclure absolument tous les fichiers. Ainsi, si tu tapes `$ rm -rf /` ou `$ rm -rf *` dans ton terminal, tu dis Ã  ce dernier de tout prendre et de tout effacer, en forÃ§ant les barriÃ¨res. En plus, figure-toi que `rm` est trÃ¨s rapide. Il effacera donc l'intÃ©gralitÃ© de ton ordinateur en quelques secondes Ã  peine ! Conclusion : **Ã  ne jamais jamais jamais faire**.
 ##### 3.6.5\. Vim
 
-Vim est l'un des Ã©diteurs de texte les plus respectÃ©s au monde. Comme il passe uniquement par le terminal, il se marie extrÃªmement bien avec cet outil. Et comme il utilise juste le clavier, ses raccourcis permettent d'aller vraiment vite pour qui ose grimper la trÃ¨s rude courbe d'apprentissage (quelques semaines Ã  plein temps). De ce fait, je te montrerai vim pour ta culture G, mais te demanderai de passer par un autre Ã©diteur de texte í ½í¸‰
+Vim est l'un des Ã©diteurs de texte les plus respectÃ©s au monde. Comme il passe uniquement par le terminal, il se marie extrÃªmement bien avec cet outil. Et comme il utilise juste le clavier, ses raccourcis permettent d'aller vraiment vite pour qui ose grimper la trÃ¨s rude courbe d'apprentissage (quelques semaines Ã  plein temps). De ce fait, je te montrerai vim pour ta culture G, mais te demanderai de passer par un autre Ã©diteur de texte ğŸš€
 
     $ vim nomdufichier
 
